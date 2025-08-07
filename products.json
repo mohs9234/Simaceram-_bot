@@ -1,1 +1,14 @@
-
+[
+    {
+        "name": "کاشی مدل A",
+        "price": "100000 تومان",
+        "inventory": 50,
+        "image": "https://via.placeholder.com/300x200.png?text=Tile+A"
+    },
+    {
+        "name": "سرامیک مدل B",
+        "price": "150000 تومان",
+        "inventory": 30,
+        "image": "https://via.placeholder.com/300x200.png?text=Tile+B"
+    }
+]
